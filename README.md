@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am mokhannate anas, a web and mobile developer and interested in AI and Data Science.
+I am mokhannate anas, a web and mobile developer.
 
 - 📫 To reach me: mokhannateanas@gmail.com 
 
